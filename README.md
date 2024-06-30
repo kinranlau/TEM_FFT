@@ -2,7 +2,7 @@
 
 See the original paper:
 
-*Fluoride Substitution: Probing Surface Hydroxyls of Metal Oxides with Fluoride Ions*
+[*Fluoride Substitution: Quantifying Surface Hydroxyls of Metal Oxides with Fluoride Ions*](https://doi.org/10.1002/admi.202400237)
 
 ---
 This repository contains the code used for visualizing Co<sub>3</sub>O<sub>4</sub> facets by performing FFT on TEM images.
